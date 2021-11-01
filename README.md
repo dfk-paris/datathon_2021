@@ -1,6 +1,6 @@
-# Données préparées pour le Datathon conjoint de l'IHA et du DFK Paris en novembre 2021
+# Des données préparées pour le Datathon conjoint de l'IHA et du DFK Paris en novembre 2021
 
-Here you will find the data that DFk Paris has prepared for the joint datathon with the IHA in November 2021.
+Here you will find the data that the DFK Paris has prepared for the joint datathon with the IHA in November 2021.
 
 The data will be presented one after the other 
 
