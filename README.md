@@ -7,6 +7,8 @@ The data will be presented one after the other
 1. the Critical Edition of the "Correspondence between Henri Fantin-Latour and Otto Scholderer, 1858-1902"
 2. the research project "Deutsch-Französische Kunstvermittlung 1871–1940 und 1945–1960" 
 
+All data are offered under the license [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) 
+
 ---
 
 ## 1. Correspondence between Henri Fantin-Latour and Otto Scholderer, 1858-1902
