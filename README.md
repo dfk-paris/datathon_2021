@@ -22,7 +22,7 @@ The data collection consists of 306 letters and four indices. The indices serve 
  
 
 ### Indices
-The four indices are available as individual files in .csv (comma separated values) format, and also summarised as sheets in an Excel table document. 
+The four indices are available as individual files in .csv (comma separated values) format, and also summarised as sheets in an Excel-alike table document (.ods). 
 
 | table | the linkage between each other | content  |
 |---|---|---|
