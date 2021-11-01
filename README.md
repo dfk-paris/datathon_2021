@@ -72,3 +72,20 @@ The index of the 306 letters provides the synopsis of the persons, works and pla
 | Lettre | Date | Lieu de création | Auteur | Destinataire | Personnes mentionnées | Lieux mentionnés | Œuvres mentionnées |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
 |1858_03 | 1858-07-05 | Francfort [sur le Main] | Scholderer, Otto | 	Fantin-Latour, Henri | Mozart, Wolfgang Amadeus Rembrandt Legros, Alphonse ...  | Paris Francfort-sur-le-Main | S Selbstbildnis des 24jährigen Künstlers (autoportrait de l'artiste âgé de 24 ans) S Kopie nach Ferdinand Bol, Bildnis eines jungen Herren (copie d'après Ferdinand Bol, portrait d'un jeune homme) ...|
+
+### Scientifically edited letters
+
+The 306 edited letters are each stored as a single HTML file.  In addition to the transcription, which also included an adjustment of the orthography, of the respective letter, they include the scholarly comments. All files are structured and labelled in the same way. 
+
+1. ID of the letter (\<div data-meta_source_id="index_of_letters#1880_19" data-template_id="text_with_meta.tpl">).
+2. link to preceding and following letter in the edition (\<nav class="non-source prev_next">\<a class="refprev" href="1880_18" rel="prev">1880_18\</a> \<a class="refnext" href="1881_01" rel="next">1881_01\</a>\</nav>).
+3. then following as numbered paragraphs (\<p class="flush" id="1">).
+
+* Place of issue, if necessary enclosed in square brackets if the place was identified in the course of the critical edition.
+  
+* Date of issue, if necessary enclosed in square brackets, the supplemented indication of the century. 
+  
+* Salutation *"Mon cher Fantin.... "* 
+* Text of the letter. 
+
+Inserted in the paragraphs are the scholarly annotations (\<span class="note">\<a class="note" data-sign="2" href="#n2">\</a>\<small class="non-source note" data-sign="2 " id="n2">Scholderer, Preparing for a Fancy Ball, B.188.\</small>\</span> citation of a work by Scholderer with title).
