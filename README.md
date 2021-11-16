@@ -100,7 +100,7 @@ La collection de données appartenant à la base de données « Deutsch-Französ
 Les données sont organisées dans deux tableaux, DFKV_Data_complet et DFKV_Master. Le tableau DFKV_Data_complet rassemble les données tirées de l’ancienne base de données, conservée dans un fichier JSON. L’autre tableau, DFKV_Master, comprend dix dossiers : volume id, type de texte, sujet, rubrique, lieu de publication, maison d’édition, personnes, rôles des personnes et attributs.
 
 ## 2. Les tableaux
-Vous trouverez ci-dessous la structure des tableaux DFKV_Data_complet et DFKV_Master ainsi que la répartition des intitulés des colonnes du tableau DFKV_Data_complet et leur équivalent dans le tableau DFKV_Master.
+Vous trouverez ci-dessous la structure des tableaux (en format xls) DFKV_Data_complet et DFKV_Master ainsi que la répartition des intitulés des colonnes du tableau DFKV_Data_complet et leur équivalent dans le tableau DFKV_Master.
 
 ### DFKV_Master
 Ce tableau se compose de dix dossiers différents qui sont listés ci-après : 
