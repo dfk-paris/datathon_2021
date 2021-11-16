@@ -161,7 +161,7 @@ Ce dernier dossier rassemble des informations qui n’ont pas trouvé de place d
 ### DFKV_Data_complet
 Ce tableau est le résultat de la « décomposition » de la base de données et contient toutes les informations du fichier JSON originel. Chacune de ses deux colonnes est liée avec le tableau DFKV_Master ; voir les descriptions de leur contenu ci-dessous. 
 
-|colonnes| |
+|colonnes|description|
 |----|--------|
 |id| ID du jeu de données|
 |project_id| Numéro du projet (publication)|
@@ -174,7 +174,6 @@ Ce tableau est le résultat de la « décomposition » de la base de données et
 |rubric_id| ID de la rubrique ; les données associées se trouvent dans le dossier « Rubrik » du tableau DFKV_Master|
 |location_id| ID du lieu de publication ; les données associées se trouvent dans le dossier « Erscheinungsort » du tableau DFKV_Master|
 |editor_id| ID de la maison d’édition ; les données associées se trouvent dans le dossier « Verlag » du tableau DFKV_Master|
-|comment| |
 |sujets| ID du sujet ; les données associées se trouvent dans le dossier « Themen » du tableau DFKV_Master|
 |type de texte| ID du type de texte ; les données associées se trouvent dans le dossier « Textart » du tableau DFKV_Master|
 |impliqué| Personne impliquée dans le texte de l’entrée (sans définition fixe)|
