@@ -1,5 +1,4 @@
 ID,Nom,Renvoi dans lettre no
-#7513,"Veronese, Paolo",1858_03
 #10488,"Normand Saint-Marcel, Emile",1858_03
 #7495,"Ribeira, Jusepe de, gen. lo Spagnoletto",1858_04
 #8319,Titien,1858_04 1859_02 1871_05 1871_09 1871_02 1879_18
@@ -37,7 +36,6 @@ ID,Nom,Renvoi dans lettre no
 #1330,"Proudhon, Pierre-Joseph",1865_14 1865_15 1865_16
 #11802,"Reiß, Jacques",1865_16
 #7480,"Watteau, Antoine",1866_01
-#9055,"Rothschild, Famille",1865_16 1866_01
 #10270,"Achenbach, Oswald",1866_02 1886_06
 #1301,"Couture, Thomas",1865_14 1867_01 1884_07 1884_08
 #1504,"Achenbach, Andreas",1866_02 1867_01 1886_06
@@ -127,7 +125,6 @@ ID,Nom,Renvoi dans lettre no
 #10305,"Carlyle, Thomas",1875_04
 #10290,"Boehm, Joseph Edgar Sir",1875_04
 #10453,"Manet, Eugène",1875_05
-#5248,Napoleon III.,1875_11
 #10546,"Schuré, Édouard",1875_11
 #10405,"Heem, Jan",1875_15
 #10512,"Raff, Joachim",1875_15
@@ -155,7 +152,8 @@ ID,Nom,Renvoi dans lettre no
 #10479,"Moroni, Giovanni Battista",1876_17
 #11940,"Veronese, Paolo",1871_09 1877_01 1891_04 1858_03
 #10336,"Deschamps, Charles W.",1872_04 1873_02 1873_03 1874_01 1874_02 1874_03 1874_07 1874_08 1875_01 1875_05 1875_08 1875_09 1875_10 1875_17 1876_01 1876_02 1876_05 1876_06 1876_17 1877_01 1877_02 1877_03 1877_07 1880_15 1897_01
-#10548,"Sickert, Oswald Adalbert",1876_03 1877_01 1877_03 1879_08 1879_09 1879_19 1881_06 1881_10 1881_11 1886_02 1888_05
+#10548,"Sickert, Oswald Adalbert","1876_03 1877_01 1877_03 1879_08 1879_09 1879_19 1881_06 1881_10 1881_11 1886_02 1888_05 	
+1881_06 1881_11 1881_05 1881_12 1882_02"
 #10314,"Colonne, Édouard",1877_04
 #1216,"Hugo, Victor",1870_02 1871_01 1877_04 1885_03 1886_01 1894_03 1894_04 1898_03
 #2918,"Bazille, Frédéric",1870_04 1871_01 1871_02 1871_09 1875_03 1877_04 1879_11
@@ -203,13 +201,11 @@ ID,Nom,Renvoi dans lettre no
 #10387,"Goff,",1879_05 1879_06
 #10303,"Callimaki-Catargi, Eva",1879_06 1880_09 1880_10 1880_17 1880_18 1880_19 1881_04
 #10523,"Riesener, Mlle",1879_06 1880_03 1881_03 1881_04
-#2886,"Hals, Frans",1879_07
 #5820,"Bellini, Giovanni",1879_07
 #10311,"Gellée, Claude",1879_07
 #7079,"Richter, Jean-Paul",1879_07
 #3277,"Steen, Jan",1879_07
 #5169,Ruskin,1878_17 1878_18 1878_19 1879_09 1879_11
-#5435,Whistler,1879_09 1884_06
 #716,"Cézanne, Paul",1879_11
 #10391,"Goupil, Adolphe",1879_13
 #7818,"Bonvin, Francois",1879_14
@@ -218,13 +214,11 @@ ID,Nom,Renvoi dans lettre no
 #10276,"Armitage, Edwards",1879_14 1885_02
 #5139,Riesener,1879_18
 #3673,"Duranty, Louis",1877_05 1879_22 1880_03 1880_05 1880_06 1880_07 1880_12 1880_15 1880_16 1881_01 1881_02 1884_07 1884_08 1884_09 1878_08 1878_09 1879_21
-#11842,"Menzel, Adolph",1880_05 1880_06 1880_12 1880_13 1880_15 1880_16 1881_01 1881_02 1886_06
 #3900,"Roth, Joseph",1880_07
 #10532,"Roth, Madame",1880_08
 #10467,"Meyer, Madame",1880_08
 #10419,"Jones, Madame",1880_07 1880_08
 #10567,"Taylor, Tom",1880_09
-#2083,Bastien-Lepage,1880_09
 #1161,Bastien-Lepage,1880_09 1880_10
 #1153,"Cassatt, Mary",1880_16
 #12203,"Desboutin,",1880_16
@@ -233,7 +227,6 @@ ID,Nom,Renvoi dans lettre no
 #12202,"Duranty, Madame",1880_16 1881_01 1881_02
 #12199,"Beaconsfield,",1881_03
 #12198,"Tennyson, Alfred",1881_03
-#12266,Sickert,1881_06 1881_11 1881_05 1881_12 1882_02
 #1341,"Chassériau, Théodore",1881_07
 #1136,"Dupré, Jules",1878_07 1881_07
 #1291,"Rousseau, Théodor Auguste",1881_07 1881_08
@@ -243,7 +236,6 @@ ID,Nom,Renvoi dans lettre no
 #3082,"Ostade, Adrien van",1881_10
 #10426,"Keene, Charles Samuel",1871_06 1876_11 1879_21 1880_12 1880_15 1880_19 1881_12 1884_07
 #10522,"Riesener, Léon",1879_11 1879_13 1879_14 1879_15 1881_12
-#6605,Sickert,1881_05 1881_12 1882_02
 #1169,"Rubens, Peter Paul",1882_01
 #2091,David,1882_04
 #10398,"Hamer, W. E.",1882_04
@@ -252,7 +244,6 @@ ID,Nom,Renvoi dans lettre no
 #12205,"Lawes, Charles Bennett",1882_06
 #12204,"Belt, Richard Claude",1882_06
 #4522,Bela Uiz,1882_06
-#1075,"Cazin, Jean Charles",1880_02 1880_05 1880_06 1880_07 1880_08 1880_09 1880_17 1880_18 1880_19 1881_03 1881_04 1882_06 1883_01 1883_02 1883_03 1884_06 1901_03
 #10299,"Budgett, Sarah",1883_02 1884_06 1885_02
 #88,"Duret, Théodore",1883_03
 #3772,"Burty, Philippe",1883_03
@@ -278,14 +269,12 @@ ID,Nom,Renvoi dans lettre no
 #3379,"Chodowiecki, Daniel Nikolaus",1886_01 1886_02
 #10563,"Steinle, Eduard Jakob von",1886_06
 #10451,"Malss, Gerhard",1886_06
-#3236,"Schreyer, Adolf",1886_06
 #10340,"Dielmann, Jakob Fürchtegott",1886_06
 #12209,"Maître, Léon",1887_03 1898_06
 #10446,"Magnus, Hermann",1883_04 1887_07
 #12210,"Magnus, Rose",1887_07 1887_08
 #10447,"Magnus, Emma",1887_07 1887_08
 #10573,"Tolstoï, Léon",1888_02
-#204,"Zola, Emile",1884_07 1888_02 1898_04
 #2453,"Blanche, Jacques Émile",1888_05
 #5075,Berlioz,1884_06 1884_10 1888_05 1894_02 1896_04
 #515,"Rousseau, Henri",1888_05 1896_02 1896_03
@@ -314,11 +303,8 @@ ID,Nom,Renvoi dans lettre no
 #2088,Thoma,1892_02 1899_05
 #10403,"Hédiard, Germain",1892_03 1892_04
 #10565,"Stothard, Thomas",1894_01
-#10435,"Leighton, Frederick",1894_01
 #10441,"Linton, James Dromgole",1894_01
 #11638,"Rossini, Pascal",1894_02
-#10355,"Dürer, Albert",1892_02 1894_02 1898_03
-#4943,Durand-Ruel,1894_03
 #12214,"Lamartine,",1894_03
 #12215,"Vigny,",1894_03
 #10539,"Scholderer, Adolphe",1862_02 1865_15 1865_16 1875_15 1878_11 1883_04 1886_03 1886_04 1886_05 1886_06 1887_09 1888_01 1892_02 1894_02 1894_03
@@ -329,7 +315,6 @@ ID,Nom,Renvoi dans lettre no
 #12216,"Faliero, Marino",1896_02
 #1505,"Justi, Carl",1896_02
 #10297,"Breul,",1896_02 1896_03
-#2470,"Diaz de la Pena, Narcisse",1896_03
 #12217,"Sedelmeyer, Charles",1896_04
 #1089,"Daumier, Honoré",1896_03 1896_04
 #2106,Millet,1887_06 1889_04 1896_04 1898_05
@@ -348,7 +333,6 @@ ID,Nom,Renvoi dans lettre no
 #4399,"Aeschylos,",1898_03
 #10362,"Euripide,",1898_03
 #10557,"Sophocle,",1898_03
-#7506,Raffael,1898_03
 #10344,"Dreyfus, Alfred",1879_11 1898_04
 #2101,Zola,1898_06
 #1336,"Rethel, Alfred",1899_01
