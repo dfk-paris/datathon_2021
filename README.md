@@ -100,7 +100,7 @@ La collection de données appartenant à la base de données « Deutsch-Französ
 Les données sont organisées dans deux tableaux, DFKV_Data_complet et DFKV_Master. Le tableau DFKV_Data_complet rassemble les données tirées de l’ancienne base de données, conservée dans un fichier JSON. L’autre tableau, DFKV_Master, comprend dix dossiers : volume id, type de texte, sujet, rubrique, lieu de publication, maison d’édition, personnes, rôles des personnes et attributs.
 
 ## 2. Les tableaux
-Vous trouverez ci-dessous la structure des tableaux DFKV_Data_complet et DFKV_Master ainsi que la répartition des intitulés des colonnes du tableau DFKV_Data_complet et leur équivalent dans le tableau DFKV_Master.
+Vous trouverez ci-dessous la structure des tableaux (en format xls) DFKV_Data_complet et DFKV_Master ainsi que la répartition des intitulés des colonnes du tableau DFKV_Data_complet et leur équivalent dans le tableau DFKV_Master.
 
 ### DFKV_Master
 Ce tableau se compose de dix dossiers différents qui sont listés ci-après : 
@@ -171,11 +171,11 @@ Ce tableau est le résultat de la « décomposition » de la base de données et
 |volume_id| ID du volume ; les données associées se trouvent dans le dossier « Volume_ID » du tableau DFKV_Master|
 |transcription| Description (textuelle) du contenu de l’entrée|
 |citation| Citation originale extraite du contenu de l’entrée|
-|rubric_id| ID de la rubrique ; les données associées se trouvent dans le dossier « Rubrik » du tableau DFKV_Master|
-|location_id| ID du lieu de publication ; les données associées se trouvent dans le dossier « Erscheinungsort » du tableau DFKV_Master|
-|editor_id| ID de la maison d’édition ; les données associées se trouvent dans le dossier « Verlag » du tableau DFKV_Master|
-|sujets| ID du sujet ; les données associées se trouvent dans le dossier « Themen » du tableau DFKV_Master|
-|type de texte| ID du type de texte ; les données associées se trouvent dans le dossier « Textart » du tableau DFKV_Master|
+|rubric_id| ID de la rubrique ; les données associées se trouvent dans le dossier « rubrique » du tableau DFKV_Master|
+|location_id| ID du lieu de publication ; les données associées se trouvent dans le dossier « lieu de publication » du tableau DFKV_Master|
+|editor_id| ID de la maison d’édition ; les données associées se trouvent dans le dossier « maison d'edition » du tableau DFKV_Master|
+|sujets| ID du sujet ; les données associées se trouvent dans le dossier « sujets » du tableau DFKV_Master|
+|type de texte| ID du type de texte ; les données associées se trouvent dans le dossier « type de texte » du tableau DFKV_Master|
 |impliqué| Personne impliquée dans le texte de l’entrée (sans définition fixe)|
 |créateur_créatrice| Auteur du texte de l’entrée|
 |traducteur_traductrice| Personne responsable de la traduction du texte de l’entrée|
